@@ -1,0 +1,4 @@
+Added Component: Designator=key1(key - duplicate5)
+Added Pin To Net: NetName=NRST Pin=key1-1
+Added Pin To Net: NetName=GND Pin=key1-2
+Added Member To Class: ClassName=V2 Member=Component key1 KEY_1

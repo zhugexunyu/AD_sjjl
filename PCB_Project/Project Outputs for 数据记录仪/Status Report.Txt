@@ -1,0 +1,44 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [数据记录仪.PrjPcb]
+   Generated File[数据记录仪.ATL]
+   Generated File[数据记录仪.GTL]
+   Generated File[数据记录仪.ABL]
+   Generated File[数据记录仪.GBL]
+   Generated File[数据记录仪.APB]
+   Generated File[数据记录仪.GPB]
+   Generated File[数据记录仪.APT]
+   Generated File[数据记录仪.GPT]
+   Generated File[数据记录仪.ATO]
+   Generated File[数据记录仪.GTO]
+   Generated File[数据记录仪.ATP]
+   Generated File[数据记录仪.GTP]
+   Generated File[数据记录仪.ATS]
+   Generated File[数据记录仪.GTS]
+   Generated File[数据记录仪.ABS]
+   Generated File[数据记录仪.GBS]
+   Generated File[数据记录仪.ABP]
+   Generated File[数据记录仪.GBP]
+   Generated File[数据记录仪.ABO]
+   Generated File[数据记录仪.GBO]
+   Generated File[数据记录仪.AKO]
+   Generated File[数据记录仪.GKO]
+   Generated File[数据记录仪.AM1]
+   Generated File[数据记录仪.GM1]
+   Generated File[数据记录仪.AM3]
+   Generated File[数据记录仪.GM3]
+   Generated File[数据记录仪.AM15]
+   Generated File[数据记录仪.GM15]
+   Generated File[数据记录仪.AD1]
+   Generated File[数据记录仪.GD1]
+   Generated File[数据记录仪.AG1]
+   Generated File[数据记录仪.GG1]
+   Generated File[数据记录仪.RUL]
+   Generated File[数据记录仪.EXTREP]
+   Generated File[数据记录仪.REP]
+
+
+Files Generated   : 35
+Documents Printed : 0
+
+Finished Output Generation At 19:28:59 On 2019/1/11

@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C21 Old Footprint=0603-cap New Footprint=C1206
+Added Member To Class: ClassName=V2 Member=Component C21 22uF

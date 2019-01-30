@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED - duplicate1 New Footprint=LED
+Added Pin To Net: NetName=SDIO_CLK Pin=U2-4

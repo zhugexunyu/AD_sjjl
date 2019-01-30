@@ -1,0 +1,11 @@
+Added Component: Designator=TF(TF-01A)
+Added Pin To Net: NetName=SDIO_D2 Pin=TF-1
+Added Pin To Net: NetName=SDIO_D3 Pin=TF-2
+Added Pin To Net: NetName=SDIO_CMD Pin=TF-3
+Added Pin To Net: NetName=3.3V Pin=TF-4
+Added Pin To Net: NetName=SDIO_CLK Pin=TF-5
+Added Pin To Net: NetName=GND Pin=TF-6
+Added Pin To Net: NetName=SDIO_D0 Pin=TF-7
+Added Pin To Net: NetName=SDIO_D1 Pin=TF-8
+Added Pin To Net: NetName=CD Pin=TF-9
+Added Member To Class: ClassName=V2 Member=Component TF U2

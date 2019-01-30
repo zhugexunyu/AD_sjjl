@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AD0/SDO Pin=S10-1
+Removed Pin From Net: NetName=NetR13_2 Pin=S10-2
+Removed Pin From Net: NetName=CS Pin=U1-25
+Removed Pin From Net: NetName=BUSY Pin=U1-28
+Added Component: Designator=S12(SIP02)
+Added Pin To Net: NetName=NetS10_1 Pin=S10-1
+Added Pin To Net: NetName=SGND Pin=S10-2
+Added Pin To Net: NetName=AD0/SDO Pin=S10-1
+Added Pin To Net: NetName=NetR13_2 Pin=S10-2
+Added Pin To Net: NetName=BUSY Pin=U1-25
+Added Pin To Net: NetName=CS Pin=U1-28
+Added Member To Class: ClassName=V2 Member=Component S12 CON2

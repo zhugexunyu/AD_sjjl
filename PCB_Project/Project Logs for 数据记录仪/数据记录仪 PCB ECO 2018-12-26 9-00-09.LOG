@@ -1,0 +1,65 @@
+Added Component: Designator=J1(SIP05)
+Added Component: Designator=J2(SIP05)
+Added Component: Designator=key1(key - duplicate5)
+Added Component: Designator=S1(SIP04)
+Added Component: Designator=S2(SIP04)
+Added Component: Designator=S3(SIP04)
+Added Component: Designator=S4(SIP02)
+Added Component: Designator=S5(SIP02)
+Added Component: Designator=S6(SIP02)
+Added Component: Designator=S7(SIP02)
+Added Component: Designator=U3(SOT-223)
+Added Component: Designator=XS1(micro USB)
+Added Pin To Net: NetName=NRST Pin=J1-1
+Added Pin To Net: NetName=TCK_SWCLK Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=TMS_SWDIO Pin=J1-4
+Added Pin To Net: NetName=3.3V Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3.3V Pin=J2-2
+Added Pin To Net: NetName=U2_RX Pin=J2-3
+Added Pin To Net: NetName=U2_TX Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=NRST Pin=key1-1
+Added Pin To Net: NetName=GND Pin=key1-2
+Added Pin To Net: NetName=5V Pin=S1-1
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=5V Pin=S1-3
+Added Pin To Net: NetName=5V Pin=S1-4
+Added Pin To Net: NetName=3.3V Pin=S2-1
+Added Pin To Net: NetName=3.3V Pin=S2-2
+Added Pin To Net: NetName=3.3V Pin=S2-3
+Added Pin To Net: NetName=3.3V Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=NetS4_1 Pin=S4-1
+Added Pin To Net: NetName=CH0 Pin=S4-2
+Added Pin To Net: NetName=NetS5_1 Pin=S5-1
+Added Pin To Net: NetName=CH1 Pin=S5-2
+Added Pin To Net: NetName=NetS6_1 Pin=S6-1
+Added Pin To Net: NetName=CH2 Pin=S6-2
+Added Pin To Net: NetName=NetS7_1 Pin=S7-1
+Added Pin To Net: NetName=CH3 Pin=S7-2
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3.3V Pin=U3-2
+Added Pin To Net: NetName=3.3V Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=5V Pin=XS1-1
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Pin To Net: NetName=GND Pin=XS1-6
+Added Pin To Net: NetName=GND Pin=XS1-7
+Added Member To Class: ClassName=数据记录仪 Member=Component J1 CON5
+Added Member To Class: ClassName=数据记录仪 Member=Component J2 CON5
+Added Member To Class: ClassName=数据记录仪 Member=Component key1 KEY_1
+Added Member To Class: ClassName=数据记录仪 Member=Component S1 CON4
+Added Member To Class: ClassName=数据记录仪 Member=Component S2 CON4
+Added Member To Class: ClassName=数据记录仪 Member=Component S3 CON4
+Added Member To Class: ClassName=数据记录仪 Member=Component S4 CON2
+Added Member To Class: ClassName=数据记录仪 Member=Component S5 CON2
+Added Member To Class: ClassName=数据记录仪 Member=Component S6 CON2
+Added Member To Class: ClassName=数据记录仪 Member=Component S7 CON2
+Added Member To Class: ClassName=数据记录仪 Member=Component U3 ASM117-3.3
+Added Member To Class: ClassName=数据记录仪 Member=Component XS1 USB1

@@ -1,0 +1,12 @@
+Added Component: Designator=S10(SIP02)
+Added Component: Designator=S12(SIP02)
+Added Pin To Net: NetName=SGND Pin=S10-2
+Added Pin To Net: NetName=AD0/SDO Pin=S12-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=S12-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetS10_1 Pin=S10-1
+Added Pin To Net: NetName=NetS10_1 Pin=U5-61
+Added Net: Name=NetS10_1
+Added Member To Class: ClassName=V2 Member=Component S10 CON2
+Added Member To Class: ClassName=V2 Member=Component S12 CON2

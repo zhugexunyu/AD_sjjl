@@ -1,0 +1,31 @@
+Added Component: Designator=J3(SIP08)
+Added Component: Designator=J4(SIP08)
+Added Component: Designator=J5(SIP08)
+Added Pin To Net: NetName=PC0 Pin=J3-1
+Added Pin To Net: NetName=PC4 Pin=J3-2
+Added Pin To Net: NetName=PC5 Pin=J3-3
+Added Pin To Net: NetName=PC13 Pin=J3-4
+Added Pin To Net: NetName=PA1 Pin=J3-5
+Added Pin To Net: NetName=PB9 Pin=J3-6
+Added Pin To Net: NetName=PB8 Pin=J3-7
+Added Pin To Net: NetName=PB7 Pin=J3-8
+Added Pin To Net: NetName=PB6 Pin=J4-1
+Added Pin To Net: NetName=PB5 Pin=J4-2
+Added Pin To Net: NetName=PB3 Pin=J4-3
+Added Pin To Net: NetName=PC12 Pin=J4-4
+Added Pin To Net: NetName=PA15 Pin=J4-5
+Added Pin To Net: NetName=PA12 Pin=J4-6
+Added Pin To Net: NetName=PA11 Pin=J4-7
+Added Pin To Net: NetName=PA9 Pin=J4-8
+Added Pin To Net: NetName=PA8 Pin=J5-1
+Added Pin To Net: NetName=PC9 Pin=J5-2
+Added Pin To Net: NetName=PC7 Pin=J5-3
+Added Pin To Net: NetName=PC6 Pin=J5-4
+Added Pin To Net: NetName=PB15 Pin=J5-5
+Added Pin To Net: NetName=PB14 Pin=J5-6
+Added Pin To Net: NetName=PB13 Pin=J5-7
+Added Pin To Net: NetName=PB12 Pin=J5-8
+Added Pin To Net: NetName=SDIO_CLK Pin=U2-4
+Added Member To Class: ClassName=数据记录仪 Member=Component J3 CON8
+Added Member To Class: ClassName=数据记录仪 Member=Component J4 CON8
+Added Member To Class: ClassName=数据记录仪 Member=Component J5 CON8

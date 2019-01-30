@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=LED1 Old Footprint=0603-cap New Footprint=LED - duplicate1
+Added Pin To Net: NetName=3.3V Pin=U2-4

@@ -1,0 +1,10 @@
+Added Component: Designator=J3(SIP03)
+Added Component: Designator=J4(SIP03)
+Added Pin To Net: NetName=SPI2_MOSI Pin=J3-1
+Added Pin To Net: NetName=SDA/SDI Pin=J3-2
+Added Pin To Net: NetName=I2C1_SDA Pin=J3-3
+Added Pin To Net: NetName=SPI2_SCK Pin=J4-1
+Added Pin To Net: NetName=SCL Pin=J4-2
+Added Pin To Net: NetName=I2C1_SCL Pin=J4-3
+Added Member To Class: ClassName=V2 Member=Component J3 CON3
+Added Member To Class: ClassName=V2 Member=Component J4 CON3

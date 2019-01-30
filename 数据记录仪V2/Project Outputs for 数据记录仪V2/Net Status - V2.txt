@@ -1,0 +1,57 @@
+Net Status Report
+Filename     : C:\Users\zxc\Desktop\数据记录仪\数据记录仪V2\V2.PcbDoc
+Date         : 2019/1/24
+Time         : 13:37:06
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 7044.943mils
+    5V, Signal Layers Only, 5689.521mils
+    AD0/SDO, Signal Layers Only, 1621.608mils
+    AD1_IN6, Signal Layers Only, 0mils
+    AD1_IN7, Signal Layers Only, 0mils
+    BOOT0, Signal Layers Only, 203.116mils
+    CD, Signal Layers Only, 0mils
+    CH0, Signal Layers Only, 0mils
+    CH1, Signal Layers Only, 0mils
+    CH2, Signal Layers Only, 0mils
+    CH3, Signal Layers Only, 0mils
+    DA1, Signal Layers Only, 0mils
+    ESC, Signal Layers Only, 0mils
+    ESD, Signal Layers Only, 0mils
+    FSYNC, Signal Layers Only, 146.87mils
+    GND, Signal Layers Only, 5906.677mils
+    INT, Signal Layers Only, 0mils
+    LED, Signal Layers Only, 314.94mils
+    NCS, Signal Layers Only, 932.403mils
+    NRST, Signal Layers Only, 2132.614mils
+    NetAR1_1, Signal Layers Only, 415.919mils
+    NetAR1_2, Signal Layers Only, 338.137mils
+    NetC15_2, Signal Layers Only, 149.562mils
+    NetC18_2, Signal Layers Only, 132.217mils
+    NetC1_2, Signal Layers Only, 667.039mils
+    NetC2_2, Signal Layers Only, 609.474mils
+    NetC3_2, Signal Layers Only, 508.115mils
+    NetC4_2, Signal Layers Only, 617.949mils
+    NetLED1_1, Signal Layers Only, 105.003mils
+    NetLED2_1, Signal Layers Only, 115.003mils
+    NetS4_1, Signal Layers Only, 0mils
+    NetS5_1, Signal Layers Only, 0mils
+    NetS6_1, Signal Layers Only, 0mils
+    NetS7_1, Signal Layers Only, 0mils
+    SCK, Signal Layers Only, 583.638mils
+    SCL, Signal Layers Only, 991.186mils
+    SDA/SDI, Signal Layers Only, 1201.413mils
+    SDI, Signal Layers Only, 542.064mils
+    SDIO_CLK, Signal Layers Only, 1841.071mils
+    SDIO_CMD, Signal Layers Only, 2001.897mils
+    SDIO_D0, Signal Layers Only, 1499.877mils
+    SDIO_D1, Signal Layers Only, 1936.056mils
+    SDIO_D2, Signal Layers Only, 1971.897mils
+    SDIO_D3, Signal Layers Only, 1967.342mils
+    SDO, Signal Layers Only, 640.841mils
+    TCK_SWCLK, Signal Layers Only, 1832.249mils
+    TMS_SWDIO, Signal Layers Only, 0mils
+    U2_RX, Signal Layers Only, 1195.615mils
+    U2_TX, Signal Layers Only, 876.828mils
+count : 49
